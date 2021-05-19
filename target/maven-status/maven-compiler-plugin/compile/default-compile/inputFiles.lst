@@ -1,0 +1,17 @@
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\Application.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\config\SecugenProperties.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\enumeration\SecugenTemplateMatchingScores.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\dto\BiometricRequest.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\entity\BiometricTemplate.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\config\ApplicationStartup.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\controller\BiometricController.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\dto\BiometricTemplate.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\entity\Device.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\dto\BiometricResult.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\dto\Device.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\entity\Biometric.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\entity\BiometricRequest.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\enumeration\DeviceNames.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\dto\ShowTables.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\entity\BiometricResult.java
+C:\Users\Niyi\Documents\lamis_update\secugen\secugen.biometric2\src\main\java\com\fh1360\lamis\secugen\biometric\service\SecugenManager.java

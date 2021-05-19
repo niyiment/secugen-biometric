@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Maven: secugen.biometric:FDxSDKPro:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/secugen/biometric/FDxSDKPro/1.0/FDxSDKPro-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/secugen/biometric/FDxSDKPro/1.0/FDxSDKPro-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/jnisgfplib/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/jnisgnfiqlib/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/jnisgwsqlib/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/sgfpamx/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/sgfplib/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/sgnfiqlib/1.0" />
+      <root url="file://$MAVEN_REPOSITORY$/secugen/FDxSDKPro/jni/sgwsqlib/1.0" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/secugen/biometric/FDxSDKPro/1.0/FDxSDKPro-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

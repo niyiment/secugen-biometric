@@ -1,0 +1,20 @@
+FINGER-PRINT INSTALLATION STEPS:
+=================================
+
+Step 1: Follow Chapter 2 of the secugen Documentations specifically #2.3.
+Step 2: Edit the LAMIS3 jdbc_setting.properties connection string:
+That is,
+
+dbUrl=jdbc:h2:file:/lamis3/database/lamis;AUTO_SERVER=TRUE;DB_CLOSE_ON_EXIT=FALSE;CACHE_SIZE=32769;LOCK_TIMEOUT=100000000;MODE=MySQL
+
+	a.	Remove the "LOCK_TIMEOUT=100000000;" part of the string to allow multiple connection. So as to enable fingerprint service
+		connect to the same database simultaneously.
+	b.	add "FILE_LOCK=SOCKET;" to replace the removed "LOCK_TIMEOUT=100000000;"	
+
+Step 3: Copy "fingerprint.js" inside this package and replace "C:\LAMIS3\webapps\lamis3\js\fingerprint.js"
+
+Step 4: Optional - This package comes with aplication.properties inside the config folder. Edit the port number as needed 
+					and update the corresponding variable inside the fingerprint.js on line 10.
+					
+Enjoy and Start Capturing With Secugen!					
+

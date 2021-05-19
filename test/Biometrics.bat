@@ -1,0 +1,1 @@
+java -jar E:\projects\secugen.biometric\test\secugen.biometric-0.0.5.jar --spring.config.location=E:\projects\secugen.biometric\test\config\application.properties &
